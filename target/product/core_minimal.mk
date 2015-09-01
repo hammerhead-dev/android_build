@@ -24,13 +24,10 @@ PRODUCT_NAME := core
 
 PRODUCT_PACKAGES += \
     aapt \
-    BackupRestoreConfirmation \
     DownloadProvider \
-    HTMLViewer \
     MediaProvider \
     PackageInstaller \
     SettingsProvider \
-    Shell \
     bcc \
     bu \
     com.android.future.usb.accessory \
