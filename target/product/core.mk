@@ -22,7 +22,6 @@
 
 PRODUCT_PACKAGES += \
     Browser \
-    CaptivePortalLogin \
     CertInstaller \
     Contacts \
     DeskClock \
